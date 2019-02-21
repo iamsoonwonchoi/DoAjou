@@ -5,7 +5,7 @@
 ### [Contributor]
 ##### ParkSeungHyun https://github.com/park-seung-hyun
 ##### KimChiHeon https://github.com/chiheon
-##### ChoiSoonwon https://github.com/
+##### ChoiSoonwon https://github.com/iamsoonwonchoi
 
 ### 사용법
 <img src="./image/desc1.jpeg" width="200">
